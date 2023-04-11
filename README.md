@@ -1,13 +1,10 @@
-### 안녕하세요. hiii-young의 GITHUB에 오신 것을 환영합니다. 👋
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=CEF279&height=150&section=header&text=Hello,hiii-young's_Github&fontColor=000000&fontSize=50&animation=fadeIn&fontAlignY=50)
-
+![header](https://capsule-render.vercel.app/api?type=Slice&color=0:31E1F7,100:D800A6&height=150&section=header&text=Hello,hiii-young's&nbsp;Github&fontColor=400D51&fontSize=50&animation=fadeIn&fontAlignY=70)
+### 👋안녕하세요. hiii-young의 GITHUB입니다.
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiii-young&theme=highcontrast&show_icons=true)
-  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiii-young&hide_progress=false)](https://github.com/hiii-young/github-readme-stats)
-
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiii-young&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/hiii-young/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiii-young&layout=compact&hide_progress=false)](https://github.com/hiii-young/github-readme-stats)
+  
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
