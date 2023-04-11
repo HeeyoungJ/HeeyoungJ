@@ -1,5 +1,9 @@
 ### 안녕하세요. hiii-young의 GITHUB에 오신 것을 환영합니다. 👋
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=CEF279&height=150&section=header&text=Hello,hiii-young's_Github&fontColor=000000&fontSize=50&animation=fadeIn&fontAlignY=50)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiii-young&theme=highcontrast&show_icons=true)
+
 <!--
 **hiii-young/hiii-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiii-young&theme=omni&show_icons=true&theme=radical)
