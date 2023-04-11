@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. hiii-young의 GITHUB에 오신 것을 환영합니다. 👋
 
 <!--
 **hiii-young/hiii-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
