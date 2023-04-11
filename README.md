@@ -2,6 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=CEF279&height=150&section=header&text=Hello,hiii-young's_Github&fontColor=000000&fontSize=50&animation=fadeIn&fontAlignY=50)
 
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiii-young&theme=highcontrast&show_icons=true)
+  <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiii-young&hide_progress=false)](https://github.com/hiii-young/github-readme-stats)
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -20,8 +26,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiii-young&theme=highcontrast&show_icons=true)
+</div>
 
 <!--
 **hiii-young/hiii-young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
