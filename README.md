@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=0:31E1F7,100:D800A6&height=150&section=header&text=Hello,hiii-young's&nbsp;Github&fontColor=400D51&fontSize=50&animation=fadeIn&fontAlignY=70)
-### 👋안녕하세요. hiii-young의 GITHUB입니다.
+### 👋안녕하세요. HeeyoungJ의 GITHUB입니다.
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiii-young&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/hiii-young/github-readme-stats)
